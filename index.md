@@ -1,7 +1,3 @@
-# Warhammer 40000 rules clarification
-
-Collection of references for clarifying Warhammer 40000 rules discussions.
-
 ## Core Rules
 
 ### Visibility
