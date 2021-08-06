@@ -1,3 +1,5 @@
+# Warhammer 40000 rules clarification
+
 ## Core Rules
 
 ### Visibility
