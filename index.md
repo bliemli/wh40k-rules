@@ -44,3 +44,14 @@ Supportive arguments from [Goonhammer's Guide to Terrain in 9th Breachable chapt
 And from [the Scaleable chapter](https://www.goonhammer.com/ruleshammmer-guide-to-terrain-in-9th/#Scaleable):
 
 > It’s easy to consider this the vertical movement barrier (floors) equivalent of Breachable’s horizontal movement barriers (walls). Splitting them into two traits does allow players to address the Industrial Structure in a way that I’m surprised GW didn’t suggest with their examples.
+
+
+## Tau
+
+### Duration of markerlights
+
+How long does a markerlight stay on an enemy model?
+
+From the [Markerlights](https://wahapedia.ru/wh40k9ed/factions/t-au-empire/#Markerlights) chapter:
+
+> When a unit is hit by a markerlight, place a counter next to it for the remainder of the phase.
