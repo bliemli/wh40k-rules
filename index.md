@@ -13,9 +13,9 @@ When is a unit visible from another model?
 
 ## Advanced Rules
 
-### Ruins
+### Ruin transition
 
-What models can can go into ruins?
+What models can go into and move through ruins?
 
 As per [Common Terrain Features > Ruins](https://wahapedia.ru/wh40k9ed/the-rules/advanced-rules/#Ruins), ruins have the following terrain traits:
 
