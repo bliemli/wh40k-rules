@@ -19,6 +19,13 @@ A summary from [Goonhammer's Ruleshammer Q&A: November 19th 2020](https://www.go
 - "This will vary depending on several factors such as the height of the models, their facing and the sheer number of models you are attempting to shoot through"
 
 
+### Number of attacks
+
+**How to determine the number of attacks with weapons that do “additional” attacks?**
+
+See [Goonhammer's Ruleshammer Q&A: December 10th 2020](https://www.goonhammer.com/ruleshammer-qa-december-10th-2020/).
+
+
 ## Advanced Rules
 
 ### Melee fight order
