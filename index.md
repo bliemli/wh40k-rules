@@ -10,6 +10,14 @@
 
 > Only enemy units can be chosen as the target for an attack. In order to target an enemy unit, at least one model in that unit must be within range (i.e. within the distance of the Range characteristic) of the weapon being used and be visible to the shooting model. If unsure, get a look from behind the firing model to see if any part of the target is visible. For the purposes of determining visibility, a model can see through other models in its unit. [...]
 
+**Can units shoot through other units?**
+
+A summary from [Goonhammer's Ruleshammer Q&A: November 19th 2020](https://www.goonhammer.com/ruleshammer-qa-november-19th-2020/):
+
+- "Models always ignore other models in their own unit for checking visibility"
+- "Generally it’s agreed that unless the unit is really super dense it’s unlikely most units of Infantry to fully block LoS"
+- "This will vary depending on several factors such as the height of the models, their facing and the sheer number of models you are attempting to shoot through"
+
 
 ## Advanced Rules
 
