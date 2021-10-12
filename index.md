@@ -21,6 +21,23 @@ A summary from [Goonhammer's Ruleshammer Q&A: November 19th 2020](https://www.go
 
 ## Advanced Rules
 
+### Melee fight order
+
+**How to resolve fights first/last discussions?**
+
+One of the important parts from the [Designer's Commentary](https://www.warhammer-community.com/wp-content/uploads/2020/08/OQ1TeUZ6hxw5jp1e.pdf) about the rare rule:
+
+> The rare rules then clarify a few things:
+> 1. If a unit has charged it is a ‘fights first’ unit that turn.
+> 2. A unit is a ‘fights first’ unit whether it is under the effect of just one, or multiple, ‘fight first’ rules.
+> 3. A unit is a ‘fights last’ unit whether it is under the effect of just one, or multiple, ‘fight last’ rules.
+> 4. If a unit would be both a ‘fights first’ and a ‘fights last’ unit at the same time, it is instead a ‘fights normally’ unit.
+
+Which leads to this new Fight Order Chart by [Goonhammer's Ruleshammer June FAQ Updates: Compendium](https://www.goonhammer.com/ruleshammer-june-faq-updates-compendium/#Fight_Order_Altering_Abilities):
+
+![](https://d1w82usnq70pt2.cloudfront.net/wp-content/uploads/2021/06/Flow-Chart-2021-06-05-Fight-Phase-Simple-v2.png)
+
+
 ### Ruin transition
 
 **What models can go into and move through ruins?**
