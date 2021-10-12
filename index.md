@@ -4,7 +4,7 @@
 
 ### Visibility
 
-When is a unit visible from another model?
+**When is a unit visible from another model?**
 
 [Shooting Phase > Select Targets](https://wahapedia.ru/wh40k9ed/the-rules/core-rules/#Select-Targets):
 
@@ -15,7 +15,7 @@ When is a unit visible from another model?
 
 ### Ruin transition
 
-What models can go into and move through ruins?
+**What models can go into and move through ruins?**
 
 As per [Common Terrain Features > Ruins](https://wahapedia.ru/wh40k9ed/the-rules/advanced-rules/#Ruins), ruins have the following terrain traits:
 
@@ -50,7 +50,7 @@ And from [the Scaleable chapter](https://www.goonhammer.com/ruleshammmer-guide-t
 
 ### Duration of markerlights
 
-How long does a markerlight stay on an enemy model?
+**How long does a markerlight stay on an enemy model?**
 
 From the [Markerlights](https://wahapedia.ru/wh40k9ed/factions/t-au-empire/#Markerlights) chapter:
 
