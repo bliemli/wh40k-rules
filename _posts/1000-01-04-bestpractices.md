@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: bestpractices
 title: "Best practices"
 ---
 
