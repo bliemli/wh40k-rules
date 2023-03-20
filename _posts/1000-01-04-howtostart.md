@@ -8,8 +8,8 @@ title: "How to start"
 
 ### Factions
 
-* [Bricky's Every single Warhammer 40k Faction Explained | Part 1](https://www.youtube.com/watch?v=xCGKPRiJp84)
-* [Bricky's Every single Warhammer 40k Faction Explained | Part 2](https://www.youtube.com/watch?v=Y6jnsX77TCU)
+* [Bricky's Every single Warhammer 40k Faction Explained Part 1](https://www.youtube.com/watch?v=xCGKPRiJp84)
+* [Bricky's Every single Warhammer 40k Faction Explained Part 2](https://www.youtube.com/watch?v=Y6jnsX77TCU)
 
 
 ### Gameplay
